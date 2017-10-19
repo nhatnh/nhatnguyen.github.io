@@ -376,6 +376,12 @@ div.percentage span {
 .footer-above div {
     margin-bottom: 15px;
 }
+#footer h2 {
+    color: #ffffff;
+    text-align: left;
+    text-transform: capitalize;
+    font-weight: bold;
+}
 
 @media (max-width: 768px) {
     .content-head {
